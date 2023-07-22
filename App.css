@@ -1,0 +1,13 @@
+.container {
+  position: absolute;
+  margin: 200px;
+}
+label,input,button{
+  font-size: larger;
+}
+.container1{
+  position: absolute;
+  right:200px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
